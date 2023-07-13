@@ -9,7 +9,7 @@ import java.util.function.Predicate;
  * Ans: all of them are invalid. None of them even compiles
  */
 
-public class LambdasEins {
+public class Lambdas {
     
     // If the type is indicated, type and variable must be between ( )
     Predicate<String> p1 = String a -> System.out.println(a); 
