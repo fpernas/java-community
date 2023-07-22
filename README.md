@@ -4,7 +4,7 @@ The project contains several examples with the explainations of why works or not
 Each Java packet represents the type of examples that contains. For example the **constructors** package contains examples of something related with constructors. 
 
 The folder structure looks like this. Next to leaf folders you can find the number of exercises inside. Keep in mind that one excercise can contain several files.
-
+```
 .
 ├── demo
 └── on/
@@ -17,6 +17,7 @@ The folder structure looks like this. Next to leaf folders you can find the numb
         │   ├── inheritance  (1)
         │   └── statics  (1)
         └── lambdas  (1)
+```
 
 And the list of exercises with some breaf explaination of what they are is (the check is to determine if they were
 already presented to people or not):
