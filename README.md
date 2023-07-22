@@ -36,5 +36,5 @@ already presented to people or not):
     - [ ] ClassWithTwoInterfaces implements FirstInterface and SecondInterface both with the same default method name
   - statics:
     - [ ] ClassCallStaticMethod implements StaticMethodInterface, and the example demonstrates how to use a static method of an interface
-  - lambdas:
+- lambdas:
     - [ ] Lambas: contains several lambdas that don't compile
